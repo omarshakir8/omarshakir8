@@ -24,8 +24,7 @@ Check out some of my favorite projects:
 - Continuing to explore and create **AI-driven applications**
 
 ### 💬 Let’s Connect:
-- 💼 [LinkedIn]
-- 🐦 [Twitter]
+- 💼 [LinkedIn](https://www.linkedin.com/in/omarshakir1/)
 - ✉️ Reach me at: omar.shakir@temple.edu
 
 I love collaborating on open-source projects, so feel free to get in touch if you'd like to work on something together!
